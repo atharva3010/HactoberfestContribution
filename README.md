@@ -19,6 +19,8 @@
  | [Aman Singh](https://github.com/aman935) | CS student | C/C++ | B. Tech. | 4 | 3rd|
  | [Shivank](https://github.com/GeekyShiva) | VR/AR developer | C++, C#, Unity and VR/AR Content | B.Tech | 4 | 4th | 
  | [Vitalii Leshchenko]( https://github.com/vitaliaventel) | Software Engineer | Java, JS, Salesforce | M.Tech | 4 | 5th |
+ | [Atharva Sharma]( https://github.com/atharva3010) | Front-end Web Developer | HTML5, CSS3, JS, Bootstrap, Vue.js| B.Tech | 0 | 6th |
+
 
 
  
